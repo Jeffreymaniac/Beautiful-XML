@@ -1,63 +1,65 @@
 /* Background Colors */
-group[bgcolor="red"] {
+[bgcolor="red"] {
 background-color:red;
 }
-group[bgcolor="orange"] {
+[bgcolor="orange"] {
 background-color:orange;
 }
-group[bgcolor="yellow"] {
+[bgcolor="yellow"] {
 background-color:yellow;
 }
-group[bgcolor="green"] {
+[bgcolor="green"] {
 background-color:green;
 }
-group[bgcolor="blue"] {
+[bgcolor="blue"] {
 background-color:blue;
 }
-group[bgcolor="purple"] {
+[bgcolor="purple"] {
 background-color:purple;
 }
-group[bgcolor="white"] {
+[bgcolor="white"] {
 background-color:white;
 }
-group[bgcolor="black"] {
+[bgcolor="black"] {
 background-color:black;
 }
-group[bgcolor="brown"] {
+[bgcolor="brown"] {
 background-color:brown;
 }
-group[bgcolor="violet"] {
+[bgcolor="violet"] {
 background-color:violet;
 }
 
 /* Text Colors */
-group[txtcolor="red"] {
+[txtcolor="red"] {
 color:red;
 }
-group[txtcolor="orange"] {
+[txtcolor="orange"] {
 color:orange;
 }
-group[txtcolor="yellow"] {
+[txtcolor="yellow"] {
 color:yellow;
 }
-group[txtcolor="green"] {
+[txtcolor="green"] {
 color:green;
 }
-group[txtcolor="blue"] {
+[txtcolor="blue"] {
 color:blue;
 }
-group[txtcolor="purple"] {
+[txtcolor="purple"] {
 color:purple;
 }
-group[txtcolor="white"] {
+[txtcolor="white"] {
 color:white;
 }
-group[txtcolor="black"] {
+[txtcolor="black"] {
 color:black;
 }
-group[txtcolor="brown"] {
+[txtcolor="brown"] {
 color:brown;
 }
-group[txtcolor="violet"] {
+[txtcolor="violet"] {
 color:violet;
 }
+
+/* */
