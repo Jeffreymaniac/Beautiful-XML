@@ -21,5 +21,6 @@ These are colors for the attributes, `txtcolor`, and `bgcolor`:
 * Black
 * Brown
 * White
+
 This cannot accept rgb values or any type of hex or color code, it can only accept the colors in word form (ex. red, blue etc.).
 If you would like more colors for text and background colors, then please contact me.
