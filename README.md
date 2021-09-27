@@ -9,6 +9,12 @@ The `<group>` tag allows for styling of a particular section.
 `bgcolor` is for the background color, while `txtcolor` is for the text color.
 These are colors for the attributes, `txtcolor`, and `bgcolor`:
 * Red
+* Orange
+* Yellow
+* Green
 * Blue
-*
-*
+* Purple
+* Violet
+* Black
+* Brown
+* White
