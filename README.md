@@ -28,6 +28,7 @@ If you would like more colors for text and background colors, then please contac
 ### Fonts:
 
 The attribute to add a font is `font`. This uses Google Fonts, so credits to Google Api's.
+
 Attribute values:
 * Roboto
 * Open-Sans
