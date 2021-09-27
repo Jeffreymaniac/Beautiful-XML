@@ -1,7 +1,7 @@
 # Beautiful XML
 
 Beautiful XML is a CSS stylesheet that can be used in XML to style stuff in XML.
-Contact me: [jeffreyrb03@gmail.com](jeffreyrb03@gmail.com)
+Contact me: [mailto:jeffreyrb03@gmail.com](jeffreyrb03@gmail.com)
 
 ## Documentation
 
