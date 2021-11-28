@@ -1,172 +1,178 @@
 /* Background Colors */
 [bgcolor="white"] {
-  color: white;
+  background-color: white;
 }
 [bgcolor="red"] {
-  color: red;
+  background-color: red;
 }
 [bgcolor="blue"] {
-  color: blue;
+  background-color: blue;
 }
 [bgcolor="yellow"] {
-  color: white;
+  background-color: white;
 }
 [bgcolor="green"] {
-  color: green;
+  background-color: green;
 }
 [bgcolor="chocolate"] {
-  color: white;
+  background-color: white;
 }
 [bgcolor="gray"] {
-  color: gray;
+  background-color: gray;
 }
 [bgcolor="grey"] {
-  color: gray;
+  background-color: gray;
 }
 [bgcolor="black"] {
-  color: black;
+  background-color: black;
 }
 [bgcolor="orange"] {
-  color: orange;
+  background-color: orange;
 }
 [bgcolor="fuchsia"] {
-  color: fuchsia;
+  background-color: fuchsia;
 }
 [bgcolor="RebeccaPurple"] {
-  color: RebeccaPurple;
+  background-color: RebeccaPurple;
 }
 [bgcolor="Rebecca Purple"] {
-  color: RebeccaPurple;
+  background-color: RebeccaPurple;
 }
   [bgcolor="purple"] {
-  color: purple;
+  background-color: purple;
 }
   [bgcolor="violet"] {
-  color: violet;
+  background-color: violet;
 }
   [bgcolor="magenta"] {
-  color: magenta;
+  background-color: magenta;
 }
   [bgcolor="indigo"] {
-  color: indigo;
+  background-color: indigo;
 }
   [bgcolor="orchid"] {
-  color: orchid;
+  background-color: orchid;
 }
   [bgcolor="navy"] {
-  color: navy;
+  background-color: navy;
 }
   [bgcolor="peru"] {
-  color: peru;
+  background-color: peru;
 }
   [bgcolor="maroon"] {
-  color: maroon;
+  background-color: maroon;
 }
   [bgcolor="tan"] {
-  color: tan;
+  background-color: tan;
 }
   [bgcolor="wheat"] {
-  color: wheat;
+  background-color: wheat;
 }
   [bgcolor="almond"] {
-  color: almond;
+  background-color: almond;
 }
   [bgcolor="teal"] {
-  color: teal;
+  background-color: teal;
 }
   [bgcolor="aquamarine"] {
-  color: aquamarine;
+  background-color: aquamarine;
 }
   [bgcolor="cyan"] {
-  color: cyan;
+  background-color: cyan;
 }
   [bgcolor="white"] {
-  color: white;
+  background-color: white;
 }
   [bgcolor="aqua"] {
-  color: aqua;
+  background-color: aqua;
 }
   [bgcolor="gold"] {
-  color: gold;
+  background-color: gold;
 }
   [bgcolor="moccasin"] {
-  color: moccasin;
+  background-color: moccasin;
 }
   [bgcolor="khaki"] {
-  color: khaki;
+  background-color: khaki;
 }
   [bgcolor="turquoise"] {
-  color: turquoise;
+  background-color: turquoise;
 }
   [bgcolor="tomato"] {
-  color: tomato;
+  background-color: tomato;
 }
   [bgcolor="coral"] {
-  color: coral;
+  background-color: coral;
 }
   [bgcolor="chartreuse"] {
-  color: chartreuse;
+  background-color: chartreuse;
 }
   [bgcolor="salmon"] {
-  color: salmon;
+  background-color: salmon;
 }
   [bgcolor="crimson"] {
-  color: crimson;
+  background-color: crimson;
 }
   [bgcolor="lime"] {
-  color: lime;
+  background-color: lime;
 }
   [bgcolor="olive"] {
-  color: olive;
+  background-color: olive;
 }
   [bgcolor="pink"] {
-  color: pink;
+  background-color: pink;
 }
   [bgcolor="cornsilk"] {
-  color: cornsilk;
+  background-color: cornsilk;
 }
   [bgcolor="bisque"] {
-  color: bisque;
+  background-color: bisque;
 }
   [bgcolor="sienna"] {
-  color: sienna;
+  background-color: sienna;
 }
   [bgcolor="silver"] {
-  color: silver;
+  background-color: silver;
 }
   [bgcolor="plum"] {
-  color: plum;
+  background-color: plum;
 }
   [bgcolor="lavender"] {
-  color: lavender;
+  background-color: lavender;
 }
   [bgcolor="thistle"] {
-  color: thistle;
+  background-color: thistle;
 }
   [bgcolor="beige"] {
-  color: beige;
+  background-color: beige;
 }
   [bgcolor="gainsboro"] {
-  color: gainsboro;
+  background-color: gainsboro;
 }
   [bgcolor="ivory"] {
-  color: ivory;
+  background-color: ivory;
 }
   [bgcolor="linen"] {
-  color: linen;
+  background-color: linen;
 }
   [bgcolor="azure"] {
-  color: azure;
+  background-color: azure;
 }
   [bgcolor="snow"] {
-  color: snow;
+  background-color: snow;
 }
   [bgcolor="white"] {
-  color: white;
+  background-color: white;
 }
 
-[fontsize="20px"] {
-  font-size:20px;
+[bgcolor="pee"] {
+  background-color: yellow;
+}
+[bgcolor="poop"] {
+  background-color: brown;
+}
+[bgcolor="boogers"] {
+  background-color: lightgreen;
 }
 
 /* Text Colors */
@@ -335,7 +341,15 @@
   [tcolor="white"] {
   color: white;
 }
- 
+[tcolor="pee"] {
+  color: yellow;
+}
+[tcolor="poop"] {
+ color: brown;
+}
+[tcolor="boogers"] {
+  color: lightgreen;
+} 
 
 
 /* Fonts */
