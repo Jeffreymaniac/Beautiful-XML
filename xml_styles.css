@@ -1,66 +1,342 @@
 /* Background Colors */
+[bgcolor="white"] {
+  color: white;
+}
 [bgcolor="red"] {
-background-color:red;
-}
-[bgcolor="orange"] {
-background-color:orange;
-}
-[bgcolor="yellow"] {
-background-color:yellow;
-}
-[bgcolor="green"] {
-background-color:green;
+  color: red;
 }
 [bgcolor="blue"] {
-background-color:blue;
+  color: blue;
 }
-[bgcolor="purple"] {
-background-color:purple;
+[bgcolor="yellow"] {
+  color: white;
 }
-[bgcolor="white"] {
-background-color:white;
+[bgcolor="green"] {
+  color: green;
+}
+[bgcolor="chocolate"] {
+  color: white;
+}
+[bgcolor="gray"] {
+  color: gray;
+}
+[bgcolor="grey"] {
+  color: gray;
 }
 [bgcolor="black"] {
-background-color:black;
+  color: black;
 }
-[bgcolor="brown"] {
-background-color:brown;
+[bgcolor="orange"] {
+  color: orange;
 }
-[bgcolor="violet"] {
-background-color:violet;
+[bgcolor="fuchsia"] {
+  color: fuchsia;
+}
+[bgcolor="RebeccaPurple"] {
+  color: RebeccaPurple;
+}
+[bgcolor="Rebecca Purple"] {
+  color: RebeccaPurple;
+}
+  [bgcolor="purple"] {
+  color: purple;
+}
+  [bgcolor="violet"] {
+  color: violet;
+}
+  [bgcolor="magenta"] {
+  color: magenta;
+}
+  [bgcolor="indigo"] {
+  color: indigo;
+}
+  [bgcolor="orchid"] {
+  color: orchid;
+}
+  [bgcolor="navy"] {
+  color: navy;
+}
+  [bgcolor="peru"] {
+  color: peru;
+}
+  [bgcolor="maroon"] {
+  color: maroon;
+}
+  [bgcolor="tan"] {
+  color: tan;
+}
+  [bgcolor="wheat"] {
+  color: wheat;
+}
+  [bgcolor="almond"] {
+  color: almond;
+}
+  [bgcolor="teal"] {
+  color: teal;
+}
+  [bgcolor="aquamarine"] {
+  color: aquamarine;
+}
+  [bgcolor="cyan"] {
+  color: cyan;
+}
+  [bgcolor="white"] {
+  color: white;
+}
+  [bgcolor="aqua"] {
+  color: aqua;
+}
+  [bgcolor="gold"] {
+  color: gold;
+}
+  [bgcolor="moccasin"] {
+  color: moccasin;
+}
+  [bgcolor="khaki"] {
+  color: khaki;
+}
+  [bgcolor="turquoise"] {
+  color: turquoise;
+}
+  [bgcolor="tomato"] {
+  color: tomato;
+}
+  [bgcolor="coral"] {
+  color: coral;
+}
+  [bgcolor="chartreuse"] {
+  color: chartreuse;
+}
+  [bgcolor="salmon"] {
+  color: salmon;
+}
+  [bgcolor="crimson"] {
+  color: crimson;
+}
+  [bgcolor="lime"] {
+  color: lime;
+}
+  [bgcolor="olive"] {
+  color: olive;
+}
+  [bgcolor="pink"] {
+  color: pink;
+}
+  [bgcolor="cornsilk"] {
+  color: cornsilk;
+}
+  [bgcolor="bisque"] {
+  color: bisque;
+}
+  [bgcolor="sienna"] {
+  color: sienna;
+}
+  [bgcolor="silver"] {
+  color: silver;
+}
+  [bgcolor="plum"] {
+  color: plum;
+}
+  [bgcolor="lavender"] {
+  color: lavender;
+}
+  [bgcolor="thistle"] {
+  color: thistle;
+}
+  [bgcolor="beige"] {
+  color: beige;
+}
+  [bgcolor="gainsboro"] {
+  color: gainsboro;
+}
+  [bgcolor="ivory"] {
+  color: ivory;
+}
+  [bgcolor="linen"] {
+  color: linen;
+}
+  [bgcolor="azure"] {
+  color: azure;
+}
+  [bgcolor="snow"] {
+  color: snow;
+}
+  [bgcolor="white"] {
+  color: white;
+}
+
+[fontsize="20px"] {
+  font-size:20px;
 }
 
 /* Text Colors */
-[txtcolor="red"] {
-color:red;
+[tcolor="white"] {
+  color: white;
 }
-[txtcolor="orange"] {
-color:orange;
+[tcolor="red"] {
+  color: red;
 }
-[txtcolor="yellow"] {
-color:yellow;
+[tcolor="blue"] {
+  color: blue;
 }
-[txtcolor="green"] {
-color:green;
+[tcolor="yellow"] {
+  color: white;
 }
-[txtcolor="blue"] {
-color:blue;
+[tcolor="green"] {
+  color: green;
 }
-[txtcolor="purple"] {
-color:purple;
+[tcolor="chocolate"] {
+  color: white;
 }
-[txtcolor="white"] {
-color:white;
+[tcolor="gray"] {
+  color: gray;
 }
-[txtcolor="black"] {
-color:black;
+[tcolor="grey"] {
+  color: gray;
 }
-[txtcolor="brown"] {
-color:brown;
+[tcolor="black"] {
+  color: black;
 }
-[txtcolor="violet"] {
-color:violet;
+[tcolor="orange"] {
+  color: orange;
 }
+[tcolor="fuchsia"] {
+  color: fuchsia;
+}
+[tcolor="RebeccaPurple"] {
+  color: RebeccaPurple;
+}
+[tcolor="Rebecca Purple"] {
+  color: RebeccaPurple;
+}
+  [tcolor="purple"] {
+  color: purple;
+}
+  [tcolor="violet"] {
+  color: violet;
+}
+  [tcolor="magenta"] {
+  color: magenta;
+}
+  [tcolor="indigo"] {
+  color: indigo;
+}
+  [tcolor="orchid"] {
+  color: orchid;
+}
+  [tcolor="navy"] {
+  color: navy;
+}
+  [tcolor="peru"] {
+  color: peru;
+}
+  [tcolor="maroon"] {
+  color: maroon;
+}
+  [tcolor="tan"] {
+  color: tan;
+}
+  [tcolor="wheat"] {
+  color: wheat;
+}
+  [tcolor="almond"] {
+  color: almond;
+}
+  [tcolor="teal"] {
+  color: teal;
+}
+  [tcolor="aquamarine"] {
+  color: aquamarine;
+}
+  [tcolor="cyan"] {
+  color: cyan;
+}
+  [tcolor="white"] {
+  color: white;
+}
+  [tcolor="aqua"] {
+  color: aqua;
+}
+  [tcolor="gold"] {
+  color: gold;
+}
+  [tcolor="moccasin"] {
+  color: moccasin;
+}
+  [tcolor="khaki"] {
+  color: khaki;
+}
+  [tcolor="turquoise"] {
+  color: turquoise;
+}
+  [tcolor="tomato"] {
+  color: tomato;
+}
+  [tcolor="coral"] {
+  color: coral;
+}
+  [tcolor="chartreuse"] {
+  color: chartreuse;
+}
+  [tcolor="salmon"] {
+  color: salmon;
+}
+  [tcolor="crimson"] {
+  color: crimson;
+}
+  [tcolor="lime"] {
+  color: lime;
+}
+  [tcolor="olive"] {
+  color: olive;
+}
+  [tcolor="pink"] {
+  color: pink;
+}
+  [tcolor="cornsilk"] {
+  color: cornsilk;
+}
+  [tcolor="bisque"] {
+  color: bisque;
+}
+  [tcolor="sienna"] {
+  color: sienna;
+}
+  [tcolor="silver"] {
+  color: silver;
+}
+  [tcolor="plum"] {
+  color: plum;
+}
+  [tcolor="lavender"] {
+  color: lavender;
+}
+  [tcolor="thistle"] {
+  color: thistle;
+}
+  [tcolor="beige"] {
+  color: beige;
+}
+  [tcolor="gainsboro"] {
+  color: gainsboro;
+}
+  [tcolor="ivory"] {
+  color: ivory;
+}
+  [tcolor="linen"] {
+  color: linen;
+}
+  [tcolor="azure"] {
+  color: azure;
+}
+  [tcolor="snow"] {
+  color: snow;
+}
+  [tcolor="white"] {
+  color: white;
+}
+ 
+
 
 /* Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
@@ -89,4 +365,9 @@ font-family:'Indie Flower', cursive;
 }
 [font="Monospace"] {
 font-family:monospace;
+}
+
+/* Font sizes */
+[fontsize="20px"] {
+font-size:20px; 
 }
