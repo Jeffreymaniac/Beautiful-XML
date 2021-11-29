@@ -382,11 +382,38 @@ font-family:monospace;
 }
 
 /* Font sizes */
+[fontsize="0px"] {
+font-size:0px; 
+}
 [fontsize="1px"] {
 font-size:1px; 
 }
 [fontsize="2px"] {
 font-size:2px; 
+}
+[fontsize="3px"] {
+font-size:3px; 
+}
+[fontsize="4px"] {
+font-size:4px; 
+}
+[fontsize="5px"] {
+font-size:5px; 
+}
+[fontsize="6px"] {
+font-size:6px; 
+}
+[fontsize="7px"] {
+font-size:7px; 
+}
+[fontsize="8px"] {
+font-size:8px; 
+}
+[fontsize="9px"] {
+font-size:9px; 
+}
+[fontsize="10px"] {
+font-size:10px; 
 }
 [fontsize="20px"] {
 font-size:20px; 
