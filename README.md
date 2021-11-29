@@ -1,6 +1,6 @@
 # Beautiful XML
 
-Beautiful XML is a CSS stylesheet that can be used in XML to style stuff in XML.
+Beautiful XML is a XML library that can be used in XML to style stuff in XML.
 Contact me: [jeffreyrb03@gmail.com](mailto:jeffreyrb03@gmail.com)
 
 ## Documentation
@@ -9,7 +9,7 @@ The `<group>` tag allows for styling of a particular section.
 
 ### Colors:
 
-`bgcolor` is the attribute for a background color, while `txtcolor` is an attribute for a text color.
+`bgcolor` is the attribute for a background color, while `tcolor` is an attribute for a text color.
 Attribute values:
 * Red
 * Orange
@@ -21,6 +21,7 @@ Attribute values:
 * Black
 * Brown
 * White
+* Red
 
 This cannot accept rgb values or any type of hex or color code, it can only accept the colors in word form (ex. red, blue etc.).
 If you would like more colors for text and background colors, then please contact me.
@@ -39,3 +40,5 @@ Attribute values:
 * Monospace
 
 If you would like more fonts, contact me.
+
+The attribute to add a font size is `fontsize`. It supports every number up to 100.
