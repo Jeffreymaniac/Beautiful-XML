@@ -41,4 +41,4 @@ Attribute values:
 
 If you would like more fonts, contact me.
 
-The attribute to add a font size is `fontsize`. It supports every number up to 100.
+The attribute to add a font size is `fontsize`. It supports every number up to 35. I plan to add numbers all up to 100.
