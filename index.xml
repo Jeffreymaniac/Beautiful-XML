@@ -2,5 +2,6 @@
 <?xml stylesheet="beautifulxml.css" ?>
 <!DOCTYPE note SYSTEM "beautiful.dtd">
  
-
-<text>Hello!</text>
+<script xmlns="http://www.w3.org/1999/xhtml" src="beautifulxml.js"></script>
+<title>Beautiful XML</title>
+<text>Hello! This is an XML document.</text>
