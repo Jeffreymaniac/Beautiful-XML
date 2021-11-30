@@ -5,7 +5,7 @@ Contact me: [jeffreyrb03@gmail.com](mailto:jeffreyrb03@gmail.com)
 
 ## Documentation
 
-The `<group>` tag allows for styling of a particular section.
+The `<group>` tag allows for grouping of a particular section.
 
 ### Colors:
 
