@@ -2,7 +2,7 @@
 <?xml-stylesheet href="beautifulxml.css" ?>
 <!DOCTYPE note SYSTEM "beautiful.dtd">
  
-<script xmlns="http://www.w3.org/1999/xhtml" src="beautifulxml.js"></script>
+
 <title>Beautiful XML</title>
 
 <text font="merriweather">Hello! This is an XML document.</text>
