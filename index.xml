@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml stylesheet="beautifulxml.css" ?>
+<?xml-stylesheet="beautifulxml.css" ?>
 <!DOCTYPE note SYSTEM "beautiful.dtd">
  
 <script xmlns="http://www.w3.org/1999/xhtml" src="beautifulxml.js"></script>
