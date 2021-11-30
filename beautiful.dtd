@@ -1,0 +1,12 @@
+<!ELEMENT group (group,text,heading,code)>
+<!ELEMENT text (#PCDATA)>
+
+<!ATTLIST text bgcolor CDATA #IMPLIED>
+<!ATTLIST group bgcolor CDATA #IMPLIED>
+ <!ATTLIST heading bgcolor CDATA #IMPLIED>
+  <!ATTLIST code bgcolor CDATA #IMPLIED>
+  
+  <!ATTLIST text tcolor CDATA #IMPLIED>
+<!ATTLIST group tcolor CDATA #IMPLIED>
+ <!ATTLIST heading tcolor CDATA #IMPLIED>
+  <!ATTLIST code tcolor CDATA #IMPLIED>
