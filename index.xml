@@ -1,7 +1,5 @@
 <!DOCTYPE note SYSTEM "beautiful.dtd">
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml stylesheet="beautifulxml.css" ?>
-
-
+<?xml version="1.0" stylesheet="beautifulxml.css" encoding="UTF-8"?>
+ 
 
 <text>Hello!</text>
