@@ -1,5 +1,7 @@
 <!ELEMENT group (group,text,heading,code)>
 <!ELEMENT text (#PCDATA)>
+<!ELEMENT title (#CDATA)>
+<!ELEMENT script (#CDATA)>
 
 <!ATTLIST text bgcolor CDATA #IMPLIED>
 <!ATTLIST group bgcolor CDATA #IMPLIED>
