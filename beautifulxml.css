@@ -490,3 +490,9 @@ font-size:34px;
 [fontsize="35px"] {
 font-size:35px; 
 }
+
+/* Text */
+text {
+  margin: 1px;
+  
+}
