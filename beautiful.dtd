@@ -2,13 +2,25 @@
 <!ELEMENT text (#PCDATA)>
 <!ELEMENT title (#CDATA)>
 <!ELEMENT script (#CDATA)>
+<!ELEMENT code (#CDATA)>
+<!ELEMENT page EMPTY>
 
 <!ATTLIST text bgcolor CDATA #IMPLIED>
 <!ATTLIST group bgcolor CDATA #IMPLIED>
- <!ATTLIST heading bgcolor CDATA #IMPLIED>
+ <!ATTLIST page bgcolor CDATA #IMPLIED>
   <!ATTLIST code bgcolor CDATA #IMPLIED>
   
   <!ATTLIST text tcolor CDATA #IMPLIED>
 <!ATTLIST group tcolor CDATA #IMPLIED>
- <!ATTLIST heading tcolor CDATA #IMPLIED>
+ <!ATTLIST page tcolor CDATA #IMPLIED>
   <!ATTLIST code tcolor CDATA #IMPLIED>
+
+  <!ATTLIST text font CDATA #IMPLIED>
+<!ATTLIST group font CDATA #IMPLIED>
+ <!ATTLIST page font CDATA #IMPLIED>
+  <!ATTLIST code font CDATA #IMPLIED>
+  
+    <!ATTLIST text fontsize CDATA #IMPLIED>
+<!ATTLIST group fontsize CDATA #IMPLIED>
+ <!ATTLIST heading fontsize CDATA #IMPLIED>
+  <!ATTLIST code fontsize CDATA #IMPLIED>
