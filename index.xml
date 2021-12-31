@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="beautifulxml.css" ?>
-<!DOCTYPE note SYSTEM "beautiful.dtd">
- 
-
-<title>Beautiful XML</title>
 
 <text font="merriweather">Hello! This is an XML document.</text>
