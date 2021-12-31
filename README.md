@@ -1,6 +1,7 @@
 # Beautiful XML
 
 Beautiful XML is a XML library that can be used in XML to style stuff in XML.
+
 Contact me: [jeffreyrb03@gmail.com](mailto:jeffreyrb03@gmail.com)
 
 ## Documentation
@@ -22,13 +23,15 @@ Attribute values:
 * Brown
 * White
 * Red
+* Chartreuse
+* 
 
 This cannot accept rgb values or any type of hex or color code, it can only accept the colors in word form (ex. red, blue etc.).
 If you would like more colors for text and background colors, then please contact me.
 
 ### Fonts:
 
-The attribute to add a font is `font`. This uses Google Fonts, so credits to Google Api's.
+The attribute to add a font is `font`. This uses Google Fonts, so credits to Google API's.
 
 Attribute values:
 * Roboto
