@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="beautifulxml.css" ?>
 
-<text font="roboto">Hello World! This is an XML document.</text>
+<text font="roboto">Hello World! This is a cool XML document.</text>
+
 <text bgcolor="red" tcolor="white">woah red background white text EPIC</text>
