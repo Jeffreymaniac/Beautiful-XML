@@ -1,5 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <?xml-stylesheet href="beautifulxml.css" type="text/css" ?>
 <group>
-<text tcolor="blue">Hello World! This is a cool XML document.</text>
+<text tcolor="blue" font="Roboto">Hello World! This is an XML document you're looking at!</text>
+<text>its got cool styles now because it uses Beautiful XML!</text>
+<text>WEEEEHOOOOOO!</text>
 </group>
