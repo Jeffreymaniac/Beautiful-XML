@@ -1,16 +1,17 @@
 # Beautiful XML
 
-Beautiful XML is a XML library that can be used in XML to style stuff in XML.
+Beautiful XML is a CSS library that can be used to style stuff in XML.
 
 Contact me: [jeffreyrb03@gmail.com](mailto:jeffreyrb03@gmail.com)
 
-## Documentation
+## How to use/Documentation
 
-The `<group>` tag allows for grouping of a particular section.
+The `<group>` tag allows for grouping of a particular section (like the HTML `<div>` tag).
+You use `<text>` for text/paragraphs like the HTML `<p>` tag.
 
 ### Colors:
 
-`bgcolor` is the attribute for a background color, while `tcolor` is an attribute for a text color.
+`bgcolor` is the attribute for a background color, while `tcolor` is for a text color.
 Attribute values:
 * Red
 * Orange
@@ -24,22 +25,21 @@ Attribute values:
 * White
 * Red
 * Chartreuse
-* 
+* RebeccaPurple
+* and almost every HTML color name
 
-This cannot accept rgb values or any type of hex or color code, it can only accept the colors in word form (ex. red, blue etc.).
+This cannot accept rgb values or any type of hex or color code, it only accepts the colors as their color names (ex. red, blue etc.).
 If you would like more colors for text and background colors, then please contact me.
 
 ### Fonts:
 
-The attribute to add a font is `font`. This uses Google Fonts, so credits to Google API's.
+The attribute to add a font is `font`. This uses Google Fonts for some.
 
 Attribute values:
 * Roboto
 * Open-Sans
-* Merriweather
 * Cabin
 * Comic-Sans
-* Indie-Flower
 * Monospace
 
 If you would like more fonts, contact me.
