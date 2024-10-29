@@ -1,3 +1,10 @@
+/* Text */
+text {
+  margin: 1px;
+  display:block;
+}
+*{font-family:arial;}
+
 /* Background Colors */
 [bgcolor="white"] {
   background-color: white;
@@ -163,16 +170,6 @@
 }
   [bgcolor="white"] {
   background-color: white;
-}
-
-[bgcolor="pee"] {
-  background-color: yellow;
-}
-[bgcolor="poop"] {
-  background-color: brown;
-}
-[bgcolor="boogers"] {
-  background-color: lightgreen;
 }
 
 /* Text Colors */
@@ -341,44 +338,29 @@
   [tcolor="white"] {
   color: white;
 }
-[tcolor="pee"] {
-  color: yellow;
-}
-[tcolor="poop"] {
- color: brown;
-}
-[tcolor="boogers"] {
-  color: lightgreen;
-} 
 
 
 /* Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cabin&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
-
 [font="Roboto"] {
 font-family:'Roboto', sans-serif;
 }
 [font="Open-Sans"] {
 font-family:'Open Sans', sans-serif;
 }
-[font="Merriweather"] {
-font-family:'Merriweather', sans-serif;
-}
 [font="Cabin"] {
 font-family:'Cabin', sans-serif;
 }
 [font="Comic-Sans"] {
-font-family:cursive;
-}
-[font="Indie-Flower"] {
-font-family:'Indie Flower', cursive;
+font-family:Comic Sans MS, cursive;
 }
 [font="Monospace"] {
 font-family:monospace;
+}
+[font="Arial"] {
+font-family:Arial;
 }
 
 /* Font sizes */
@@ -489,10 +471,4 @@ font-size:34px;
 }
 [fontsize="35px"] {
 font-size:35px; 
-}
-
-/* Text */
-text {
-  margin: 1px;
-  
 }
