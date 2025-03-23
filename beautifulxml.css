@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans|Roboto|Cabin&display=swap');
 /* Text */
 text {
   margin: 1px;
@@ -341,9 +342,7 @@ text {
 
 
 /* Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Cabin&display=swap');
+
 [font="Roboto"] {
 font-family:'Roboto', sans-serif;
 }
